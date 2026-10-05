@@ -109,7 +109,7 @@ $techAppConfig = [
                     // 'p24',
                     // 'eps'
                 ],
-                'stripeTestingSecretKey'    => 'sk_test_51MX0jLSF2flS4SttXmn9WBUWjiC6a4ZtwFUTIl6rrW0Tq6nd3ePO7DfxGjzdr2F8aNjJiviZY1gdPwBsCx5fG1Al00bYej9FiP', //Stripe testing Secret Key
+                'stripeTestingSecretKey'    => '', //Stripe testing Secret Key
                 'stripeTestingPublishKey'   => 'Enter your Test Publish Key', //Stripe testing Publish Key
                 'stripeLiveSecretKey'       => 'sk_test_51MX0jLSF2flS4SttXmn9WBUWjiC6a4ZtwFUTIl6rrW0Tq6nd3ePO7DfxGjzdr2F8aNjJiviZY1gdPwBsCx5fG1Al00bYej9FiP', //Stripe Secret live Key
                 'stripeLivePublishKey'      => 'Enter your Live Publish Key', //Stripe live Publish Key
